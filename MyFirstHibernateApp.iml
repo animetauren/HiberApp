@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/antlr-2.7.6.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/cglib-2.2.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/commons-collections-3.1.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/dom4j-1.6.1.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/hibernate3.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/javassist-3.12.0.GA.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/jta-1.1.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/mysql-connector-java-5.1.15-bin.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/slf4j-api-1.6.1.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/slf4j-simple-1.6.1.jar" />
+    <libelement value="file://D:/programs/eclipse_ws_j2ee/MyFirstHibernateApp/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
